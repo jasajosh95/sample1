@@ -1,9 +1,9 @@
 package org.tcs;
 
-public class  {
+public class test1 {
 
 public static void main(String[] args) {
- int empID=20;
+ System.out.println("Hello world");
  
 }
 }
